@@ -1,0 +1,6 @@
+@Reto2_CleanHexagonal_HostAddress = http://localhost:5164
+
+GET {{Reto2_CleanHexagonal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
